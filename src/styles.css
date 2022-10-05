@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.mt-1 {
+  margin-top: 1rem;
+}
+.movieTypeBtn {
+  padding: 1rem 0.5rem;
+  margin-left: 1rem;
+  background-color: #475569;
+  color: #fff;
+  border-radius: 4px;
+}
+.main-box {
+  padding: 0.7rem;
+  border: 1px solid black;
+  margin-right: 0.5rem;
+  font-weight: bold;
+  background-color: darkgray;
+  border-radius: 0.5rem;
+}
+
+.box {
+  margin-top: 1rem;
+  margin-bottom: 0.7rem;
+  width: 70%;
+  border: 1px solid black;
+  padding: 0.7rem;
+  border-radius: 1rem;
+  background-color: #fef2f2;
+}
+.primary-btn {
+  background-color: #fef2f2;
+}
